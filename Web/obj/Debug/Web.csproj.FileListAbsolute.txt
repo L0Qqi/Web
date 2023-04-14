@@ -1,0 +1,14 @@
+C:\Users\loqi\source\repos\Web\Web\bin\Debug\Web.exe.config
+C:\Users\loqi\source\repos\Web\Web\bin\Debug\Web.exe
+C:\Users\loqi\source\repos\Web\Web\bin\Debug\Web.pdb
+C:\Users\loqi\source\repos\Web\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\Users\loqi\source\repos\Web\Web\obj\Debug\Web.csproj.SuggestedBindingRedirects.cache
+C:\Users\loqi\source\repos\Web\Web\obj\Debug\Web.Properties.Resources.resources
+C:\Users\loqi\source\repos\Web\Web\obj\Debug\Web.csproj.GenerateResource.cache
+C:\Users\loqi\source\repos\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\loqi\source\repos\Web\Web\obj\Debug\Web.exe
+C:\Users\loqi\source\repos\Web\Web\obj\Debug\Web.pdb
+C:\Users\loqi\source\repos\Web\Web\obj\Debug\Web.FormBrowser.resources
+C:\Users\loqi\source\repos\Web\Web\obj\Debug\Web.WebPage.resources
+C:\Users\loqi\source\repos\Web\Web\obj\Debug\Web.HistoryPage.resources
+C:\Users\loqi\source\repos\Web\Web\obj\Debug\Web.FavPage.resources
